@@ -1,0 +1,77 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.header {
+  color: rgb(153, 26, 54);
+  font-family: monospace;
+  font-size: 32px;
+}
+input {
+  font-size: 50px;
+  width: 20rem;
+  height: 4.5rem;
+  margin: 5px;
+}
+.guessing {
+  font-size: 40px;
+  color: rgb(51, 51, 165);
+  background-color: #586ba2;
+  width: 10rem;
+  height: 5rem;
+  margin: 5px 5px 5px 5px;
+}
+.guessing:hover {
+  background-color: cornflowerblue;
+  color: darkblue;
+}
+.starter {
+  font-family: monospace;
+  font-size: 17px;
+  background-color: #586ba2;
+  color: rgb(51, 51, 165);
+  width: 10rem;
+  height: 5rem;
+}
+.starter:hover {
+  background-color: cornflowerblue;
+  color: darkblue;
+}
+.results {
+  font-family: monospace;
+  font-size: 50px;
+  color: rgb(153, 26, 54);
+}
+h3 {
+  color: rgb(153, 26, 54);
+  font-family: monospace;
+  font-size: 35px;
+}
+.red {
+  color: red;
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.blue {
+  color: blue;
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+}
+.green {
+  color: green;
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+}
+.winner {
+  font-size: 25px;
+  color: rgb(51, 51, 165);
+  background-color: #586ba2;
+  width: 10rem;
+  height: 5rem;
+  margin: 25px 5px 5px 5px;
+}
+.winner:hover {
+  background-color: cornflowerblue;
+  color: darkblue;
+}
